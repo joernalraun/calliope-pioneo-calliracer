@@ -3,8 +3,8 @@
 #### Grundlegendes
 Die Calliope MakeCode Programme sind dazu gedacht um mit unserer Android-App "CalliRacer" zu interagieren. 
 Die Programme mit der Endung .hex können entweder:
-- Direkt benutzt werden, indem du den Calliope-Mini mit deinem Computer verbindest und das Programm im Dateimanager/Explorer auf den Calliope ziehst
-- oder im MakeCode Editor eingesehen/bearbeitet werden die beiden [URL´s](#Links-zu-den-Editoren), zu den Editoren findest du weiter unten
+- Direkt benutzt werden, indem du den Calliope-Mini mit deinem Computer verbindest und das Programm im Dateimanager/Explorer auf den Calliope ziehst.
+- oder im MakeCode Editor eingesehen/bearbeitet werden die beiden Links, zu den Editoren findest du weiter [unten](#Links-zu-den-Editoren).
 
 Es gibt zwei Versionen von dem CalliRacer Programm einmal für den neuen MakeCode Editor, welcher sich noch in der **Beta** befindet und einmal für den aktuellen Editor!
 
