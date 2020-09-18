@@ -9,7 +9,7 @@ Die Programme mit der Endung .hex können entweder:
 Es gibt zwei Versionen von dem CalliRacer Programm einmal für den neuen MakeCode Editor, welcher sich noch in der **Beta** befindet und einmal für den aktuellen Editor!
 
 Welche Version für welchen Editor gedacht ist kannst du an dem Namen unterscheiden
-- CalliRacer V1.0 --> Für den akutellen MakeCode Editors
+- CalliRacer V1.0 --> Für den aktuellen MakeCode Editor
 - CalliRacer V1.0(Beta) --> Für die Beta Version des MakeCode Editors
 
 &NewLine;  
@@ -22,4 +22,6 @@ Das Programm für die Beta Version nutzt das Grove-Paket für die Kommunikation 
 2. [Beta MakeCode Version](https://makecode.calliope.cc/beta)
 
 #### Kontakt
-
+pioneo GmbH
+E-Mail: development@pioneo.de
+[www.pioneo.de](https://www.pioneo.de)
